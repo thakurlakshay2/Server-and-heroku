@@ -1,8 +1,10 @@
 {
-  "name": "Lecture-9",
+  "name": "Server.js",
   "version": "1.0.0",
   "main": "Server.js",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"
+  },
   "devDependencies": {
     "nodemon": "^1.19.3"
   },
